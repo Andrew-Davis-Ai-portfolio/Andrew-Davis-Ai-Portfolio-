@@ -115,3 +115,26 @@ Led teams in rehabilitation programs and implemented safety protocols.
 Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK-HERE)\
 [![GitHub
 Badge](https://img.shields.io/badge/GitHub-Projects-lightgrey?logo=github)](https://github.com/YOUR-USERNAME)
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-portfolio/blob/main/IMG_4977.jpeg?raw=1" width="120" alt="Flame Division Crest">
+</p>
+
+<h3 align="center">⚙️ Flame Division — Command Verified</h3>
+<p align="center">
+  <em>"When ethics governs intelligence, execution becomes truth."</em><br>
+  <strong>Commander Flame | Chief AI Officer ( CAIO ) | Certified AI Implementation Professional ( CAIIP )</strong>
+</p>
+
+<p align="center">
+  🦁 Flame Law — <em>“Visibility is the proof of truth. Verification is the proof of power.”</em> ⚙️🔥
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrew-davis-ai" target="_blank">🔗 LinkedIn Profile</a> | 
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio" target="_blank">💻 GitHub Portfolio</a> | 
+  <a href="mailto:andrew.davis.caio@flamedivision.ai">📧 Contact</a>
+</p>
+
+<hr>
