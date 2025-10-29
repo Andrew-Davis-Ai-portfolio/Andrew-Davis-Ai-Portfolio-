@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-portfolio/main/IMG_4977.jpeg" 
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/main/IMG_4977.jpeg"
        alt="Commander Flame — AI Governance Strategist" width="100%">
 </p>
 
