@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/main/IMG_4977.jpeg"
-       alt="Commander Flame — AI Governance Strategist" width="100%">
+  <img src="IMG_4977.jpeg"
+       alt="Commander Flame — AI Governance Strategist"
+       width="100%">
 </p>
 
 <h1 align="center">🦁 Commander Flame — CAIO | CAIIP | AI Governance Strategist</h1>
