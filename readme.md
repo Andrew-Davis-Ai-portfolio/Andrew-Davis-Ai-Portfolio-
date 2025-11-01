@@ -66,13 +66,19 @@ Elite targeting + search domination.
 
 ---
 
-### 2) ♟️ **Project Checkmate System**
-AI-driven business **simulation** where every move is a decision.
-<p>
-  <a href="https://github.com/Andrew-Davis-Ai-portfolio/project-checkmate-system">
-    <img src="https://img.shields.io/badge/VIEW%20CHECKMATE-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-  </a>
-</p>
+# ♟️ Project Checkmate System
+AI-driven business simulation where every move is a decision.
+
+### Overview
+- Turn-based decisions → data feedback → iterate to viability.
+- “Every move is a decision. Every defeat is data. Every victory is a system.”
+
+### Roadmap
+- `/core/` engine
+- `/ui/` simple CLI
+- `/docs/` rules & playbook
+
+MIT
 
 ---
 
@@ -86,13 +92,24 @@ Real-time pressure test for strategic choices.
 
 ---
 
-### 4) 🎭 **Business Samurai — Flame Mini Chatbot**
-Local demo + persona (no key required mode available).
-<p>
-  <a href="https://github.com/Andrew-Davis-Ai-portfolio/flame-mini-chatbot">
-    <img src="https://img.shields.io/badge/TRY%20THE%20BOT-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-  </a>
-</p>
+# 🎭 Business Samurai — Flame Mini Chatbot
+**Modes:** Local Demo (no API key) · Live LLM (optional)
+
+Calm, precise, slightly playful. Guiding principle:  
+*“Once forged, the blade no longer proves itself — it performs.”* ⚔️🔥
+
+### Quick Start
+1. (Soon) `python app.py` to launch Gradio UI.
+2. No key? Local demo replies with on-brand samples.
+3. Set `OPENAI_API_KEY` to enable live LLM mode.
+
+### Files (incoming)
+- `app.py` · `requirements.txt`  
+- `/persona/` prompt + traits  
+- `/samples/` demo dialogs
+
+### License
+MIT
 
 ---
 
