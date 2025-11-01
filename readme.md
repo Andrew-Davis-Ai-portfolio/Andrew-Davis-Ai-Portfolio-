@@ -9,6 +9,7 @@
 
 <div align="center">
 
+<div align="center">
 <h1>🔥 FLAME DIVISION ACADEMY</h1>
 <h3><em>Where execution becomes ecosystem.</em></h3>
 
