@@ -92,24 +92,29 @@ Real-time pressure test for strategic choices.
 
 ---
 
-# 🎭 Business Samurai — Flame Mini Chatbot
-**Modes:** Local Demo (no API key) · Live LLM (optional)
+## 🎭 Business Samurai — Flame Mini Chatbot
 
-Calm, precise, slightly playful. Guiding principle:  
-*“Once forged, the blade no longer proves itself — it performs.”* ⚔️🔥
+**Modes:**  
+• Local Demo (no API key)  
+• Live LLM (optional)
 
-### Quick Start
-1. (Soon) `python app.py` to launch Gradio UI.
+Calm, precise, slightly playful.  
+Guiding principle:  
+*“Once forged, the blade no longer proves itself — it performs.”* ⚔🔥
+
+### 🚀 Quick Start (coming soon)
+1. `python app.py` to launch Gradio UI.
 2. No key? Local demo replies with on-brand samples.
 3. Set `OPENAI_API_KEY` to enable live LLM mode.
 
-### Files (incoming)
-- `app.py` · `requirements.txt`  
-- `/persona/` prompt + traits  
-- `/samples/` demo dialogs
+### 🔧 Structure (incoming)
+### ✅ Status
+MIT License  
+📝 In development — public demo coming soon!
 
-### License
-MIT
+> *“A silent blade still cuts.”* — Flame Law
+
+[▶️ TRY THE BOT (Soon)](https://github.com/Andrew-Davis-AI-Portfolio/business-samurai-mini-chatbot)
 
 ---
 
