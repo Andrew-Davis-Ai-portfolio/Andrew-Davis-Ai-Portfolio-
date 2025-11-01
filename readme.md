@@ -12,6 +12,7 @@
 <div align="center">
 <h1>🔥 FLAME DIVISION ACADEMY</h1>
 <h3><em>Where execution becomes ecosystem.</em></h3>
+<br />
 
 <a href="https://www.linkedin.com/in/andrew-davis-828883126">
   <img src="https://img.shields.io/badge/CAIO-Certified-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
