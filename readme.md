@@ -4,26 +4,6 @@
        width="100%">
 </p>
 
-<h1 align="center">🦁 Commander Flame — CAIO | CAIIP | AI Governance Strategist</h1>
-<h3 align="center">Certified Chief AI Officer | Certified AI Implementation Professional | AI & Cybersecurity Architect</h3>
-
-<p align="center"><em>"Where ethics meets execution — and execution becomes ecosystem."</em></p>
-
----
-
-🔥 **Mission Statement**
-
-> *To lead the integration of artificial intelligence, governance, and automation into the modern enterprise — transforming data into discipline, and leadership into intelligent design.*
-# 🦁 Commander Flame --- CAIO \| CAIIP \| AI Governance Strategist
-
-⚙️ **Certified Chief AI Officer (CAIO)** • **Certified AI Implementation
-Professional (CAIIP)** • **AI & Cyber Security Architect**
-
-------------------------------------------------------------------------
-
-## 🔥 About Me
-
-Seasoned professional with 25+ years of leadership experience evolving
 from front-line supervision and security into next-generation AI
 governance and automation strategy.\
 My mission is simple: **Turn complexity into clarity and AI into ROI.**
