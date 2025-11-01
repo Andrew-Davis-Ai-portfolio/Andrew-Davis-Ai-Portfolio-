@@ -14,6 +14,13 @@
 <h3><em>Where execution becomes ecosystem.</em></h3>
 <br />
 
+<p align="center">
+  <a href="#missions">🎯 Missions</a> •
+  <a href="#deploy">⚙️ Deployment</a> •
+  <a href="#tools">🧩 AI Stack</a> •
+  <a href="#founder">👑 Founder</a>
+</p>
+
 <a href="https://www.linkedin.com/in/andrew-davis-828883126">
   <img src="https://img.shields.io/badge/CAIO-Certified-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
 </a>
