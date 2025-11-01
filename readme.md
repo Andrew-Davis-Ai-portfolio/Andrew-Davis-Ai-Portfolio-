@@ -4,117 +4,118 @@
        width="100%">
 </p>
 
-from front-line supervision and security into next-generation AI
-governance and automation strategy.\
-My mission is simple: **Turn complexity into clarity and AI into ROI.**
+<!-- FLAME DIVISION ACADEMY — BLACK + GOLD THEME -->
+<!-- Palette: Obsidian #0E0E12 · Ember Gold #D4AF37 · Soft Gray #B8BDC7 -->
 
-> "AI doesn't replace leaders --- it amplifies them." ⚙️🔥
+<div align="center">
 
-------------------------------------------------------------------------
+<h1>🔥 FLAME DIVISION ACADEMY</h1>
+<h3><em>Where execution becomes ecosystem.</em></h3>
 
-## 🎓 Certifications
+<a href="https://www.linkedin.com/in/andrew-davis-828883126">
+  <img src="https://img.shields.io/badge/CAIO-Certified-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+</a>
+<img src="https://img.shields.io/badge/CAIIP-Implementation-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+<img src="https://img.shields.io/badge/Ethical%20AI-Governance-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
 
-  ------------------------------------------------------------------------
-  Certification         Institution                       Year
-  --------------------- --------------------- ----------------------------
-  Certified Chief AI    Udemy / School of AI              2025
-  Officer (CAIO)                              
+<br/><br/>
 
-  Certified AI          Udemy                             2025
-  Implementation                              
-  Professional (CAIIP)                        
+<a href="#missions" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/ENTER%20THE%20ACADEMY-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+</a>
+&nbsp;&nbsp;
+<a href="#deploy" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/DEPLOY%20YOUR%20FIRST%20SYSTEM-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+</a>
 
-  AI & ChatGPT for      Udemy                             2025
-  Cyber Security 2025                         
+</div>
 
-  LLM Engineering --    Udemy                             2025
-  Large Language Models                       
-  & Agents                                    
+---
 
-  AI Powered Data       Udemy                             2025
-  Analytics Mastery                           
-  (Vibe Coding)                               
+> “Mastery is earned through execution.” — **Flame Law** ⚙️🔥
 
-  Data Science & AI     Udemy                             2025
-  Masters (Python → Gen                       
-  AI)                                         
+## 🏛️ About
+**Flame Division Academy** trains operators to **deploy real AI systems**:
+- Strategy → Implementation → Revenue Systems  
+- Governance + Ethics baked in  
+- Built in public, executed in private
 
-  n8n AI Agents & Voice Udemy                             2025
-  Automations                                 
+---
 
-  AI Voice Agents --    Udemy                             2025
-  Automate Calls                              
-  (No-Code)                                   
+## 🚀 Featured Missions <a id="missions"></a>
 
-  Technical Leadership  Udemy                             2025
-  for AI Era -- Staff                         
-  Engineer & Tech Lead                        
+### 1) 🔎 **KSM — Keyword Sniper Mistress (Mission 4)**
+Elite targeting + search domination.
+- Repo: **KSM** → `/flame-division-academy-/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM`
+- Includes: brand guide, persona, skill tree, pricing, receipts, proofs, avatar spec
 
-  AI + Cyber Security   Udemy                             2025
-  Integration & Risk                          
-  Management                                  
-  ------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## ⚙️ Core Domains
-
--   AI Strategy & Governance\
--   Ethical & Responsible AI\
--   Cyber Security & Threat Mitigation\
--   Data Science & LLM Engineering\
--   Workflow Automation (n8n / Zapier / Python APIs)\
--   Human-Centered Design & Enterprise Integration
-
-------------------------------------------------------------------------
-
-## 💼 Professional Timeline
-
-**AI Strategy & Governance Consultant** (2018 -- Present)\
-Developing multi-layer AI frameworks and governance systems for
-enterprise and security clients.
-
-**Security & Compliance Director** (2005 -- 2018)\
-Directed physical and digital security initiatives across multi-facility
-operations.
-
-**Lead Supervisor \| Department of Youth Services** (1998 -- 2005)\
-Led teams in rehabilitation programs and implemented safety protocols.
-
-------------------------------------------------------------------------
-
-## 🜂 Flame Law Series \| Executive Command
-
-> "Collect knowledge like capital; deploy it like technology." ⚙️🔥
-
-------------------------------------------------------------------------
-
-## 📫 Connect
-
-[![LinkedIn
-Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK-HERE)\
-[![GitHub
-Badge](https://img.shields.io/badge/GitHub-Projects-lightgrey?logo=github)](https://github.com/YOUR-USERNAME)
-<hr>
-
-<p align="center">
-  <img src="https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-portfolio/blob/main/IMG_4977.jpeg?raw=1" width="120" alt="Flame Division Crest">
+<p>
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/tree/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM">
+    <img src="https://img.shields.io/badge/OPEN%20KSM-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
 </p>
 
-<h3 align="center">⚙️ Flame Division — Command Verified</h3>
-<p align="center">
-  <em>"When ethics governs intelligence, execution becomes truth."</em><br>
-  <strong>Commander Flame | Chief AI Officer ( CAIO ) | Certified AI Implementation Professional ( CAIIP )</strong>
+---
+
+### 2) ♟️ **Project Checkmate System**
+AI-driven business **simulation** where every move is a decision.
+<p>
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/project-checkmate-system">
+    <img src="https://img.shields.io/badge/VIEW%20CHECKMATE-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
 </p>
 
-<p align="center">
-  🦁 Flame Law — <em>“Visibility is the proof of truth. Verification is the proof of power.”</em> ⚙️🔥
+---
+
+### 3) ⚔️ **Market Warfare — Failure AI Demo**
+Real-time pressure test for strategic choices.
+<p>
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/market_warfare_demo">
+    <img src="https://img.shields.io/badge/PLAY%20DEMO-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrew-davis-ai" target="_blank">🔗 LinkedIn Profile</a> | 
-  <a href="https://github.com/Andrew-Davis-Ai-portfolio" target="_blank">💻 GitHub Portfolio</a> | 
-  <a href="mailto:andrew.davis.caio@flamedivision.ai">📧 Contact</a>
+---
+
+### 4) 🎭 **Business Samurai — Flame Mini Chatbot**
+Local demo + persona (no key required mode available).
+<p>
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/flame-mini-chatbot">
+    <img src="https://img.shields.io/badge/TRY%20THE%20BOT-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
 </p>
 
-<hr>
+---
+
+## 🎓 Leadership Track (CAIP → CAIO)
+- AI Implementation Professional (systems, automation, deployment)  
+- AI Strategy & Governance (policy, risk, ROI alignment)
+
+---
+
+## 💼 Official Automation Stack <a id="deploy"></a>
+Build client-grade workflows, CRMs, funnels, and AI agents.
+
+<p>
+  <a href="https://www.gohighlevel.com/970?fp_ref=4cabs">
+    <img src="https://img.shields.io/badge/Start%20Mission-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
+  &nbsp;
+  <a href="https://gohighlevel.com/protrial?fp_ref=4cabs">
+    <img src="https://img.shields.io/badge/Leadership%20Pro%20Trial-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
+</p>
+
+> Supporting Flame Division Academy costs you **nothing extra**. Required across multiple missions for certification completion.
+
+---
+
+## 👑 Founder
+**Commander Flame** — CAIO | CAIIP  
+25+ years security & systems | AI Strategy, Governance & Deployment  
+LinkedIn: https://www.linkedin.com/in/andrew-davis-828883126
+
+---
+<div align="center">
+  <sub>© Flame Division Academy — Black & Gold Command Edition</sub>
+</div>
