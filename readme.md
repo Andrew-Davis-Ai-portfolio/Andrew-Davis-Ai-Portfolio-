@@ -119,6 +119,12 @@ Build client-grade workflows, CRMs, funnels, and AI agents.
 
 ---
 
+> **Academy Stats — Field Era**
+> - Systems deployed: ⚙️ 3 beta live
+> - AI Certifications: 🎓 CAIO + CAIIP + Ethics
+> - Master Scrolls: 📜 60+ & growing
+> - Command Identity: ✅ Verified + Operational
+> - 
 ## 👑 Founder
 **Commander Flame** — CAIO | CAIIP  
 25+ years security & systems | AI Strategy, Governance & Deployment  
