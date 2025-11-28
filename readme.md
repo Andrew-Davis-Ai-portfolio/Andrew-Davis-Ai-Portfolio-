@@ -14,8 +14,8 @@
 <h3><em>Where execution becomes ecosystem.</em></h3>
 <br />
 
-🔗 **Certification Wall (35+ Professional Certifications)**  
-Validated expertise across AI Governance, Cloud Architecture, Security Engineering, and Automation Systems.  
+🔐 **Verified Certifications & Professional Validation**  
+A consolidated view of 35+ certifications supporting AI governance, cloud systems, security architecture, and automation leadership.  
 👉 https://andrew-davis-ai-portfolio.github.io/Certificate-wall/
 
 🔥 Flame Law — Where Ethics Meets Execution
