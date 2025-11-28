@@ -16,9 +16,9 @@
 
 🔥 Flame Law — Where Ethics Meets Execution
 
-Flame Division Academy exists because modern systems are failing at scale — not due to a lack of intelligence, power, or automation, but due to the absence of calibrated judgment. Execution without ethics accelerates risk. Ethics without execution collapses under inertia. Flame Law is the discipline that binds the two into a coherent operating system.
+Flame Division Academy exists because modern systems are failing at scale  not due to a lack of intelligence, power, or automation, but due to the absence of calibrated judgment. Execution without ethics accelerates risk. Ethics without execution collapses under inertia. Flame Law is the discipline that binds the two into a coherent operating system.
 
-At the center of Flame Law is the Resonant Intelligence Threshold (RIT) — the point where intelligent systems evolve beyond reactive output and into contextual alignment. RIT is not autonomy. It is not unchecked decision-making. It is precision alignment between speed, sense, and significance.
+At the center of Flame Law is the Resonant Intelligence Threshold (RIT) the point where intelligent systems evolve beyond reactive output and into contextual alignment. RIT is not autonomy. It is not unchecked decision making. It is precision alignment between speed, sense, and significance.
 
 Traditional performance metrics obsess over throughput, latency, and optimization. Flame Law expands that lens. At RIT, systems are evaluated across three converging axes:
 	•	Speed — execution without friction
