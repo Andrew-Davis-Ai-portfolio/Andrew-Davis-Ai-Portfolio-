@@ -9,6 +9,11 @@
 
 <div align="center">
 
+<div align="center">
+<h1>🔥 FLAME DIVISION ACADEMY</h1>
+<h3><em>Where execution becomes ecosystem.</em></h3>
+<br />
+
 🔥 Flame Law — Where Ethics Meets Execution
 
 Flame Division Academy operates on a single foundational principle: execution without ethics scales harm, and ethics without execution scales nothing.
@@ -39,11 +44,6 @@ Because the highest form of control is not force.
 It is coherence.
 
 And coherence requires none. ⚙️🔥
-
-<div align="center">
-<h1>🔥 FLAME DIVISION ACADEMY</h1>
-<h3><em>Where execution becomes ecosystem.</em></h3>
-<br />
 
 <p align="center">
   <a href="#missions">🎯 Missions</a> •
