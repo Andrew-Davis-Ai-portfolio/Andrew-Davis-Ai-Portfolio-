@@ -72,6 +72,77 @@ And coherence requires none. ⚙️🔥
 > “Mastery is earned through execution.” — **Flame Law** ⚙️🔥
 
 ## 🏛️ About
+
+<section class="fd-section fd-section--certs" id="certifications">
+  <h2 class="fd-section-title fd-glow-text">
+    Verified Certifications & Execution Backing
+  </h2>
+
+  <p class="fd-section-lead">
+    Behind the visuals and case studies is a certification stack built
+    for one thing: <strong>deploying real systems without creating chaos</strong>.
+    I currently hold <strong>35+ professional certifications</strong> across AI,
+    cloud, security, automation, and data — all aligned to governance and
+    real-world implementation.
+  </p>
+
+  <div class="fd-certs-grid">
+    <div class="fd-cert-column">
+      <h3 class="fd-cert-heading">AI Leadership & Governance</h3>
+      <ul class="fd-cert-list">
+        <li>Certified Chief AI Officer (CAIO)</li>
+        <li>Certified AI Implementation Professional (CAIIP)</li>
+        <li>AI Governance & Ethics / Responsible AI</li>
+        <li>AI Strategy & Executive Leadership</li>
+      </ul>
+
+      <p class="fd-cert-note">
+        These certifications validate that AI in your organization
+        won’t just “run” – it will <strong>follow guardrails</strong>, support
+        compliance, and respect risk boundaries while still shipping.
+      </p>
+    </div>
+
+    <div class="fd-cert-column">
+      <h3 class="fd-cert-heading">Cloud, Security & Automation</h3>
+      <ul class="fd-cert-list">
+        <li>AWS Security Specialty</li>
+        <li>AWS DevOps Engineer Professional</li>
+        <li>Certified Kubernetes Administrator (CKA)</li>
+        <li>Cloud Architecture & Infrastructure Design</li>
+        <li>Workflow & Automation Engineering (n8n, agents, CRMs)</li>
+      </ul>
+
+      <p class="fd-cert-note">
+        This stack covers secure delivery – from CI/CD, clusters, and
+        monitoring to AI agents wired into real business processes.
+      </p>
+    </div>
+
+    <div class="fd-cert-column">
+      <h3 class="fd-cert-heading">Data, ML & Applied AI Systems</h3>
+      <ul class="fd-cert-list">
+        <li>Data Science & AI Masters (from Python to GenAI)</li>
+        <li>Machine Learning & MLOps foundations</li>
+        <li>AI-powered Analytics & Decision Support</li>
+        <li>Domain-specific AI systems (business & medical demos)</li>
+      </ul>
+
+      <p class="fd-cert-note">
+        For investors and hiring teams, this is where 
+        <strong>numbers, models, and revenue</strong> intersect – turning
+        ideas into measurable performance.
+      </p>
+    </div>
+  </div>
+
+  <p class="fd-section-footer">
+    In short: the certifications aren’t trophies — they’re
+    <strong>proof of calibration</strong>. Every badge represents systems I can
+    stand up, govern, and improve in the field.
+  </p>
+</section>
+———
 **Flame Division Academy** trains operators to **deploy real AI systems**:
 - Strategy → Implementation → Revenue Systems  
 - Governance + Ethics baked in  
