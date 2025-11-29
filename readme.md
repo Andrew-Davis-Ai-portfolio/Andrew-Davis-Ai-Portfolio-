@@ -42,33 +42,6 @@ It is coherence.
 
 And coherence requires none. ⚙️🔥
 
-<p align="center">
-  <a href="#missions">🎯 Missions</a> •
-  <a href="#deploy">⚙️ Deployment</a> •
-  <a href="#tools">🧩 AI Stack</a> •
-  <a href="#founder">👑 Founder</a>
-</p>
-
-<a href="https://www.linkedin.com/in/andrew-davis-828883126">
-  <img src="https://img.shields.io/badge/CAIO-Certified-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-</a>
-<img src="https://img.shields.io/badge/CAIIP-Implementation-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-<img src="https://img.shields.io/badge/Ethical%20AI-Governance-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-
-<br/><br/>
-
-<a href="#missions" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/ENTER%20THE%20ACADEMY-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-</a>
-&nbsp;&nbsp;
-<a href="#deploy" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/DEPLOY%20YOUR%20FIRST%20SYSTEM-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
-</a>
-
-</div>
-
----
-
 > “Mastery is earned through execution.” — **Flame Law** ⚙️🔥
 
 ## 🏛️ About
