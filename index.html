@@ -57,6 +57,41 @@
     .pill{display:inline-block;background:#0f1722;border:1px solid #1c2635;color:var(--muted);padding:.35rem .6rem;border-radius:999px;font-size:.85rem}
     footer{padding:40px 0;color:var(--muted);border-top:1px solid #141b26;text-align:center}
     :focus{outline:2px solid var(--acc2);outline-offset:2px}
+
+    <style>
+  :root {
+    --bg:#0b0f14;
+    --card:#121821;
+    --acc:#37ff88;
+    --acc2:#60a5fa;
+    --shadow:0 8px 24px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin:0; background:var(--bg); }
+
+  /* ✅ PASTE NEW CSS RIGHT HERE */
+
+  .fd-cert-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+    margin: 48px 0;
+  }
+
+  .fd-cert-column {
+    background: var(--card);
+    padding: 24px;
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+  }
+
+  .fd-cert-heading {
+    color: var(--acc);
+    text-shadow: 0 0 12px rgba(55,255,136,.35);
+  }
+
+</style>
   </style>
 
   <!-- schema.org Person -->
