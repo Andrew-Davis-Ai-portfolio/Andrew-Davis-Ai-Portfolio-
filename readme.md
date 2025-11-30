@@ -24,6 +24,8 @@ This system operates within the wider Flame Division architecture.
 - Certification Wall (Visual Credentials):  
   https://andrew-davis-ai-portfolio.github.io/Certificate-wall/
 
+  ---
+
 🔥 Flame Law — Where Ethics Meets Execution
 
 Flame Division Academy exists because modern systems are failing at scale  not due to a lack of intelligence, power, or automation, but due to the absence of calibrated judgment. Execution without ethics accelerates risk. Ethics without execution collapses under inertia. Flame Law is the discipline that binds the two into a coherent operating system.
