@@ -25,9 +25,9 @@ This system operates within the wider Flame Division architecture.
   🔥 Open Flame Division Academy
 </a>
 
-<a class="fd-btn fd-btn-secondary" 
-   href="https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-Portfolio-/blob/main/Andrew_Davis_CAIO_Command_Simulation.pdf" 
-   target="_blank" 
+<a class="fd-btn fd-btn-secondary"
+   href="https://github.com/Andrew-Davis-Ai-portfolio/Caio-roleplay-tutor"
+   target="_blank"
    rel="noopener">
   🛡️ View CAIO Command Roleplay
 </a>
