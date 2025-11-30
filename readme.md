@@ -14,6 +14,16 @@
 <h3><em>Where execution becomes ecosystem.</em></h3>
 <br />
 
+## 🔌 Ecosystem Context
+
+This system operates within the wider Flame Division architecture.
+
+- Main Portfolio (Command Overview):  
+  https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-Portfolio-
+
+- Certification Wall (Visual Credentials):  
+  https://andrew-davis-ai-portfolio.github.io/Certificate-wall/
+
 🔐 **Verified Certifications & Professional Validation**  
 A consolidated view of 35+ certifications supporting AI governance, cloud systems, security architecture, and automation leadership.  
 👉 https://andrew-davis-ai-portfolio.github.io/Certificate-wall/
@@ -174,6 +184,10 @@ This is post-friction execution.
 ## 🚀 Featured Missions <a id="missions"></a>
 
 ### 1) 🔎 **KSM — Keyword Sniper Mistress (Mission 4)**
+
+🔗 **Main Portfolio & Command Overview**  
+https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-Portfolio-
+
 Elite targeting + search domination.
 - Repo: **KSM** → `/flame-division-academy-/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM`
 - Includes: brand guide, persona, skill tree, pricing, receipts, proofs, avatar spec
