@@ -18,22 +18,19 @@
 
 This system operates within the wider Flame Division architecture.
 
-- Main Portfolio (Command Overview):  
+<a class="fd-btn" 
+   href="https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-" 
+   target="_blank" 
+   rel="noopener">
+  🔥 Open Flame Division Academy
+</a>
 
- <a href="https://your-academy-link-here"
-     class="fd-btn secondary"
-     target="_blank" rel="noopener">
-    Flame Division Academy
-  </a>
-</div>
-
-- CAIO Role-Play Tutor:
-<div class="cta-row">
-  <a href="https://your-caio-link-here"
-     class="fd-btn"
-     target="_blank" rel="noopener">
-    CAIO Role-Play (Command Level)
-  </a>
+<a class="fd-btn fd-btn-secondary" 
+   href="https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-Portfolio-/blob/main/Andrew_Davis_CAIO_Command_Simulation.pdf" 
+   target="_blank" 
+   rel="noopener">
+  🛡️ View CAIO Command Roleplay
+</a>
 	
   ---
 
