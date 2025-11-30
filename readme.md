@@ -34,6 +34,7 @@ This system operates within the wider Flame Division architecture.
      target="_blank" rel="noopener">
     CAIO Role-Play (Command Level)
   </a>
+	
   ---
 
 🔥 Flame Law — Where Ethics Meets Execution
