@@ -58,6 +58,35 @@
     footer{padding:40px 0;color:var(--muted);border-top:1px solid #141b26;text-align:center}
     :focus{outline:2px solid var(--acc2);outline-offset:2px}
 
+    .cta-row{
+  display:flex;
+  gap:16px;
+  flex-wrap:wrap;
+  margin:24px 0 32px;
+}
+
+.fd-btn{
+  padding:14px 22px;
+  border-radius:12px;
+  background:linear-gradient(145deg,#c59a38,#ffcc66);
+  color:#0b0f14;
+  font-weight:700;
+  text-decoration:none;
+  box-shadow:0 10px 25px rgba(0,0,0,.35);
+  transition:all .25s ease;
+}
+
+.fd-btn:hover{
+  transform:translateY(-2px);
+  box-shadow:0 14px 32px rgba(0,0,0,.45);
+}
+
+.fd-btn.secondary{
+  background:transparent;
+  border:2px solid #ffcc66;
+  color:#ffcc66;
+}
+
     <style>
   :root {
     --bg:#0b0f14;
