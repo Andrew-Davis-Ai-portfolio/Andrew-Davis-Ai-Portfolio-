@@ -66,62 +66,29 @@
 }
 
 .fd-btn{
-  padding:14px 22px;
-  border-radius:12px;
-  background:linear-gradient(145deg,#c59a38,#ffcc66);
-  color:#0b0f14;
-  font-weight:700;
+  padding:16px 26px;
+  border-radius:14px;
+  background:#0b0f14;
+  color:#ffcc66;
+  font-weight:800;
+  letter-spacing:.4px;
   text-decoration:none;
-  box-shadow:0 10px 25px rgba(0,0,0,.35);
-  transition:all .25s ease;
+  border:1px solid rgba(255,204,102,.5);
+  box-shadow:
+    0 0 0 rgba(255,204,102,0),
+    0 0 40px rgba(255,140,0,.25);
+  transition:all .3s ease;
 }
 
 .fd-btn:hover{
+  box-shadow:
+    0 0 12px rgba(255,204,102,.75),
+    0 0 48px rgba(255,140,0,.6);
   transform:translateY(-2px);
-  box-shadow:0 14px 32px rgba(0,0,0,.45);
 }
-
-.fd-btn.secondary{
-  background:transparent;
-  border:2px solid #ffcc66;
-  color:#ffcc66;
-}
-
-    <style>
-  :root {
-    --bg:#0b0f14;
-    --card:#121821;
-    --acc:#37ff88;
-    --acc2:#60a5fa;
-    --shadow:0 8px 24px rgba(0,0,0,.35);
-  }
-
-  * { box-sizing: border-box; }
-  html, body { margin:0; background:var(--bg); }
-
-  /* ✅ PASTE NEW CSS RIGHT HERE */
-
-  .fd-cert-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 24px;
-    margin: 48px 0;
-  }
-
-  .fd-cert-column {
-    background: var(--card);
-    padding: 24px;
-    border-radius: 14px;
-    box-shadow: var(--shadow);
-  }
-
-  .fd-cert-heading {
-    color: var(--acc);
-    text-shadow: 0 0 12px rgba(55,255,136,.35);
-  }
 
 </style>
-  </style>
+  
 
   <!-- schema.org Person -->
   <script type="application/ld+json">
