@@ -67,6 +67,13 @@ And coherence requires none. ⚙️🔥
     Verified Certifications & Execution Backing
   </h2>
 
+  <a class="fd-btn fd-btn-secondary"
+   href="https://andrew-davis-ai-portfolio.github.io/Certificate-wall/"
+   target="_blank"
+   rel="noopener">
+  🏅 Open Full Certificate Wall
+</a>
+
   <p class="fd-section-lead">
     Behind the visuals and case studies is a certification stack built
     for one thing: <strong>deploying real systems without creating chaos</strong>.
