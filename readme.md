@@ -184,7 +184,7 @@ This is post-friction execution.
 ### 1) 🔎 **KSM — Keyword Sniper Mistress (Mission 4)**
 
 🔗 **Main Portfolio & Command Overview**  
-https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-Portfolio-
+https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/PRICING.md
 
 Elite targeting + search domination.
 - Repo: **KSM** → `/flame-division-academy-/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM`
