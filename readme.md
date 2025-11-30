@@ -141,7 +141,7 @@ That environment rewarded visibility over skill, politics over precision, and no
 
 ⚙️ After AI: Merit Replaced Permission
 
-AI didn’t eliminate effort — it eliminated artificial friction.
+AI didn’t eliminate effort it eliminated artificial friction.
 
 For the first time, operators could:
 	•	Learn deeply without asking
