@@ -19,11 +19,10 @@
 This system operates within the wider Flame Division architecture.
 
 - Main Portfolio (Command Overview):  
-  https://github.com/Andrew-Davis-Ai-portfolio/Andrew-Davis-Ai-Portfolio-
+ https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/README.md
 
-- Certification Wall (Visual Credentials):  
-  https://andrew-davis-ai-portfolio.github.io/Certificate-wall/
-
+- CAIO Role-Play Tutor:
+- https://github.com/Andrew-Davis-Ai-portfolio/Caio-roleplay-tutor
   ---
 
 🔥 Flame Law — Where Ethics Meets Execution
