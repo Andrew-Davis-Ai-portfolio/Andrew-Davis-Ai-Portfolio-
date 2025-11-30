@@ -19,10 +19,21 @@
 This system operates within the wider Flame Division architecture.
 
 - Main Portfolio (Command Overview):  
- https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/README.md
+
+ <a href="https://your-academy-link-here"
+     class="fd-btn secondary"
+     target="_blank" rel="noopener">
+    Flame Division Academy
+  </a>
+</div>
 
 - CAIO Role-Play Tutor:
-- https://github.com/Andrew-Davis-Ai-portfolio/Caio-roleplay-tutor
+<div class="cta-row">
+  <a href="https://your-caio-link-here"
+     class="fd-btn"
+     target="_blank" rel="noopener">
+    CAIO Role-Play (Command Level)
+  </a>
   ---
 
 🔥 Flame Law — Where Ethics Meets Execution
