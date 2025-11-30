@@ -220,13 +220,24 @@ AI-driven business simulation where every move is a decision.
 
 MIT
 
+# ♟️ Project Checkmate System
+AI-driven business simulation where every move is a decision.
+
+<p>
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/Project-Checkmate-System">
+    <img src="https://img.shields.io/badge/PLAY%20CHECKMATE%20SYSTEM-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
+</p>
+
 ---
 
 ### 3) ⚔️ **Market Warfare — Failure AI Demo**
 Real-time pressure test for strategic choices.
+### 3) ⚔️ **Market Warfare — Failure AI Demo**
+
 <p>
-  <a href="https://github.com/Andrew-Davis-Ai-portfolio/market_warfare_demo">
-    <img src="https://img.shields.io/badge/PLAY%20DEMO-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/Project-Market-Warfare-Demo">
+    <img src="https://img.shields.io/badge/PLAY%20MARKET%20WARFARE-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
   </a>
 </p>
 
@@ -254,8 +265,13 @@ MIT License
 
 > *“A silent blade still cuts.”* — Flame Law
 
-[▶️ TRY THE BOT (Soon)](https://github.com/Andrew-Davis-AI-Portfolio/business-samurai-mini-chatbot)
+[▶️ TRY THE BOT (Soon)](https://github.com/Andrew-Davis-Ai-portfolio/business-samurai-mini-chatbot)
 
+<p>
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/business-samurai-mini-chatbot">
+    <img src="https://img.shields.io/badge/TRY%20SAMURAI%20BOT-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
+  </a>
+</p>
 ---
 
 ## 🎓 Leadership Track (CAIP → CAIO)
