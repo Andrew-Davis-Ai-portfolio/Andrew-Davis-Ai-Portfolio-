@@ -59,146 +59,146 @@
     :focus{outline:2px solid var(--acc2);outline-offset:2px}
 
     .cta-row{
-  display:flex;
-  gap:16px;
-  flex-wrap:wrap;
-  margin:24px 0 32px;
-}
+      display:flex;
+      gap:16px;
+      flex-wrap:wrap;
+      margin:24px 0 32px;
+    }
 
-.fd-btn{
-  padding:16px 26px;
-  border-radius:14px;
-  background:#0b0f14;
-  color:#ffcc66;
-  font-weight:800;
-  letter-spacing:.4px;
-  text-decoration:none;
-  border:1px solid rgba(255,204,102,.5);
-  box-shadow:
-    0 0 0 rgba(255,204,102,0),
-    0 0 40px rgba(255,140,0,.25);
-  transition:all .3s ease;
-}
+    .fd-btn{
+      padding:16px 26px;
+      border-radius:14px;
+      background:#0b0f14;
+      color:#ffcc66;
+      font-weight:800;
+      letter-spacing:.4px;
+      text-decoration:none;
+      border:1px solid rgba(255,204,102,.5);
+      box-shadow:
+        0 0 0 rgba(255,204,102,0),
+        0 0 40px rgba(255,140,0,.25);
+      transition:all .3s ease;
+    }
 
-.fd-btn:hover{
-  box-shadow:
-    0 0 12px rgba(255,204,102,.75),
-    0 0 48px rgba(255,140,0,.6);
-  transform:translateY(-2px);
-}
+    .fd-btn:hover{
+      box-shadow:
+        0 0 12px rgba(255,204,102,.75),
+        0 0 48px rgba(255,140,0,.6);
+      transform:translateY(-2px);
+    }
 
     /* 1) Soft ambient glow behind the hero image / top card */
-.fd-hero,
-.fd-shell {
-  position: relative;
-  overflow: hidden;
-}
+    .fd-hero,
+    .fd-shell {
+      position: relative;
+      overflow: hidden;
+    }
 
-.fd-hero::before,
-.fd-shell::before {
-  content: "";
-  position: absolute;
-  inset: -40%;
-  background: radial-gradient(circle at 20% 0,
-      rgba(255, 204, 102, 0.18),
-      transparent 55%),
-    radial-gradient(circle at 80% 100%,
-      rgba(55, 248, 136, 0.14),
-      transparent 55%);
-  opacity: 0.9;
-  pointer-events: none;
-  mix-blend-mode: screen;
-}
+    .fd-hero::before,
+    .fd-shell::before {
+      content: "";
+      position: absolute;
+      inset: -40%;
+      background: radial-gradient(circle at 20% 0,
+          rgba(255, 204, 102, 0.18),
+          transparent 55%),
+        radial-gradient(circle at 80% 100%,
+          rgba(55, 248, 136, 0.14),
+          transparent 55%);
+      opacity: 0.9;
+      pointer-events: none;
+      mix-blend-mode: screen;
+    }
 
-/* 2) Neon edge on section headings */
-.fd-section-title,
-h2.fd-heading,
-h2.fd-cert-title {
-  position: relative;
-  text-shadow:
-    0 0 8px rgba(255, 204, 102, 0.65),
-    0 0 18px rgba(255, 140, 0, 0.55);
-}
+    /* 2) Neon edge on section headings */
+    .fd-section-title,
+    h2.fd-heading,
+    h2.fd-cert-title {
+      position: relative;
+      text-shadow:
+        0 0 8px rgba(255, 204, 102, 0.65),
+        0 0 18px rgba(255, 140, 0, 0.55);
+    }
 
-/* 3) Mission cards = “lit dashboard” */
-.fd-card,
-.fd-mission-card {
-  background: radial-gradient(circle at top left,
-      rgba(255, 204, 102, 0.07),
-      transparent 55%),
-    linear-gradient(135deg,
-      rgba(7, 20, 40, 0.95),
-      rgba(3, 8, 20, 0.98));
-  box-shadow:
-    0 18px 40px rgba(0, 0, 0, 0.7),
-    0 0 0 1px rgba(255, 255, 255, 0.03);
-  border-radius: 18px;
-}
+    /* 3) Mission cards = “lit dashboard” */
+    .fd-card,
+    .fd-mission-card {
+      background: radial-gradient(circle at top left,
+          rgba(255, 204, 102, 0.07),
+          transparent 55%),
+        linear-gradient(135deg,
+          rgba(7, 20, 40, 0.95),
+          rgba(3, 8, 20, 0.98));
+      box-shadow:
+        0 18px 40px rgba(0, 0, 0, 0.7),
+        0 0 0 1px rgba(255, 255, 255, 0.03);
+      border-radius: 18px;
+    }
 
-/* Card hover = slight power-up */
-.fd-card:hover,
-.fd-mission-card:hover {
-  transform: translateY(-4px);
-  box-shadow:
-    0 20px 50px rgba(0, 0, 0, 0.8),
-    0 0 22px rgba(255, 204, 102, 0.4);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
+    /* Card hover = slight power-up */
+    .fd-card:hover,
+    .fd-mission-card:hover {
+      transform: translateY(-4px);
+      box-shadow:
+        0 20px 50px rgba(0, 0, 0, 0.8),
+        0 0 22px rgba(255, 204, 102, 0.4);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
 
-/* 4) Make the main buttons feel like live controls (you already have .fd-btn) */
-.fd-btn {
-  position: relative;
-  overflow: hidden;
-}
+    /* 4) Make the main buttons feel like live controls (you already have .fd-btn) */
+    .fd-btn {
+      position: relative;
+      overflow: hidden;
+    }
 
-.fd-btn::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(circle at 10% 0,
-      rgba(255, 255, 255, 0.22),
-      transparent 60%);
-  opacity: 0;
-  transition: opacity 0.25s ease;
-}
+    .fd-btn::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 10% 0,
+          rgba(255, 255, 255, 0.22),
+          transparent 60%);
+      opacity: 0;
+      transition: opacity 0.25s ease;
+    }
 
-.fd-btn:hover::before {
-  opacity: 1;
-}
+    .fd-btn:hover::before {
+      opacity: 1;
+    }
 
-.fd-btn-primary {
-  box-shadow:
-    0 0 12px rgba(255, 204, 102, 0.6),
-    0 0 32px rgba(255, 140, 0, 0.6);
-}
+    .fd-btn-primary {
+      box-shadow:
+        0 0 12px rgba(255, 204, 102, 0.6),
+        0 0 32px rgba(255, 140, 0, 0.6);
+    }
 
-/* 5) Gentle pulse on the “ENTER THE ACADEMY” / main CTA */
-.fd-cta-pulse {
-  animation: fdPulse 2.2s ease-in-out infinite;
-}
+    /* 5) Gentle pulse on the “ENTER THE ACADEMY” / main CTA */
+    .fd-cta-pulse {
+      animation: fdPulse 2.2s ease-in-out infinite;
+    }
 
-@keyframes fdPulse {
-  0% {
-    box-shadow:
-      0 0 10px rgba(255, 204, 102, 0.4),
-      0 0 30px rgba(255, 140, 0, 0.3);
-    transform: translateY(0);
-  }
-  50% {
-    box-shadow:
-      0 0 18px rgba(255, 204, 102, 0.9),
-      0 0 42px rgba(255, 140, 0, 0.6);
-    transform: translateY(-1px);
-  }
-  100% {
-    box-shadow:
-      0 0 10px rgba(255, 204, 102, 0.4),
-      0 0 30px rgba(255, 140, 0, 0.3);
-    transform: translateY(0);
-  }
-}
+    @keyframes fdPulse {
+      0% {
+        box-shadow:
+          0 0 10px rgba(255, 204, 102, 0.4),
+          0 0 30px rgba(255, 140, 0, 0.3);
+        transform: translateY(0);
+      }
+      50% {
+        box-shadow:
+          0 0 18px rgba(255, 204, 102, 0.9),
+          0 0 42px rgba(255, 140, 0, 0.6);
+        transform: translateY(-1px);
+      }
+      100% {
+        box-shadow:
+          0 0 10px rgba(255, 204, 102, 0.4),
+          0 0 30px rgba(255, 140, 0, 0.3);
+        transform: translateY(0);
+      }
+    }
 
-</style>
+  </style>
   
 
   <!-- schema.org Person -->
@@ -244,6 +244,14 @@ h2.fd-cert-title {
             <a class="btn" href="#contact">Contact Me</a>
             <a class="btn sec" href="Andrew_Davis_Resume.pdf">Download Résumé</a>
           </div>
+
+          <!-- Academy CTA injected here -->
+          <div class="cta-row">
+            <a class="fd-btn fd-btn-primary fd-cta-pulse" href="#academy">
+              🔥 Enter the Academy
+            </a>
+          </div>
+
           <ul class="list" style="margin-top:1rem">
             <li>• Experienced with guidelines, rubrics, bias/quality checks, and safe-use policies.</li>
             <li>• Comfortable working async, detail-oriented, and results-driven.</li>
@@ -277,74 +285,74 @@ h2.fd-cert-title {
     </section>
 
     <section class="fd-section fd-section--certs" id="certifications">
-  <h2 class="fd-section-title fd-glow-text">
-    Verified Certifications & Execution Backing
-  </h2>
+      <h2 class="fd-section-title fd-glow-text">
+        Verified Certifications & Execution Backing
+      </h2>
 
-  <p class="fd-section-lead">
-    Behind the visuals and case studies is a certification stack built
-    for one thing: <strong>deploying real systems without creating chaos</strong>.
-    I currently hold <strong>35+ professional certifications</strong> across AI,
-    cloud, security, automation, and data — all aligned to governance and
-    real-world implementation.
-  </p>
-
-  <div class="fd-certs-grid">
-    <div class="fd-cert-column">
-      <h3 class="fd-cert-heading">AI Leadership & Governance</h3>
-      <ul class="fd-cert-list">
-        <li>Certified Chief AI Officer (CAIO)</li>
-        <li>Certified AI Implementation Professional (CAIIP)</li>
-        <li>AI Governance & Ethics / Responsible AI</li>
-        <li>AI Strategy & Executive Leadership</li>
-      </ul>
-
-      <p class="fd-cert-note">
-        These certifications validate that AI in your organization
-        won’t just “run” – it will <strong>follow guardrails</strong>, support
-        compliance, and respect risk boundaries while still shipping.
+      <p class="fd-section-lead">
+        Behind the visuals and case studies is a certification stack built
+        for one thing: <strong>deploying real systems without creating chaos</strong>.
+        I currently hold <strong>35+ professional certifications</strong> across AI,
+        cloud, security, automation, and data — all aligned to governance and
+        real-world implementation.
       </p>
-    </div>
 
-    <div class="fd-cert-column">
-      <h3 class="fd-cert-heading">Cloud, Security & Automation</h3>
-      <ul class="fd-cert-list">
-        <li>AWS Security Specialty</li>
-        <li>AWS DevOps Engineer Professional</li>
-        <li>Certified Kubernetes Administrator (CKA)</li>
-        <li>Cloud Architecture & Infrastructure Design</li>
-        <li>Workflow & Automation Engineering (n8n, agents, CRMs)</li>
-      </ul>
+      <div class="fd-certs-grid">
+        <div class="fd-cert-column">
+          <h3 class="fd-cert-heading">AI Leadership & Governance</h3>
+          <ul class="fd-cert-list">
+            <li>Certified Chief AI Officer (CAIO)</li>
+            <li>Certified AI Implementation Professional (CAIIP)</li>
+            <li>AI Governance & Ethics / Responsible AI</li>
+            <li>AI Strategy & Executive Leadership</li>
+          </ul>
 
-      <p class="fd-cert-note">
-        This stack covers secure delivery – from CI/CD, clusters, and
-        monitoring to AI agents wired into real business processes.
+          <p class="fd-cert-note">
+            These certifications validate that AI in your organization
+            won’t just “run” – it will <strong>follow guardrails</strong>, support
+            compliance, and respect risk boundaries while still shipping.
+          </p>
+        </div>
+
+        <div class="fd-cert-column">
+          <h3 class="fd-cert-heading">Cloud, Security & Automation</h3>
+          <ul class="fd-cert-list">
+            <li>AWS Security Specialty</li>
+            <li>AWS DevOps Engineer Professional</li>
+            <li>Certified Kubernetes Administrator (CKA)</li>
+            <li>Cloud Architecture & Infrastructure Design</li>
+            <li>Workflow & Automation Engineering (n8n, agents, CRMs)</li>
+          </ul>
+
+          <p class="fd-cert-note">
+            This stack covers secure delivery – from CI/CD, clusters, and
+            monitoring to AI agents wired into real business processes.
+          </p>
+        </div>
+
+        <div class="fd-cert-column">
+          <h3 class="fd-cert-heading">Data, ML & Applied AI Systems</h3>
+          <ul class="fd-cert-list">
+            <li>Data Science & AI Masters (from Python to GenAI)</li>
+            <li>Machine Learning & MLOps foundations</li>
+            <li>AI-powered Analytics & Decision Support</li>
+            <li>Domain-specific AI systems (business & medical demos)</li>
+          </ul>
+
+          <p class="fd-cert-note">
+            For investors and hiring teams, this is where 
+            <strong>numbers, models, and revenue</strong> intersect – turning
+            ideas into measurable performance.
+          </p>
+        </div>
+      </div>
+
+      <p class="fd-section-footer">
+        In short: the certifications aren’t trophies — they’re
+        <strong>proof of calibration</strong>. Every badge represents systems I can
+        stand up, govern, and improve in the field.
       </p>
-    </div>
-
-    <div class="fd-cert-column">
-      <h3 class="fd-cert-heading">Data, ML & Applied AI Systems</h3>
-      <ul class="fd-cert-list">
-        <li>Data Science & AI Masters (from Python to GenAI)</li>
-        <li>Machine Learning & MLOps foundations</li>
-        <li>AI-powered Analytics & Decision Support</li>
-        <li>Domain-specific AI systems (business & medical demos)</li>
-      </ul>
-
-      <p class="fd-cert-note">
-        For investors and hiring teams, this is where 
-        <strong>numbers, models, and revenue</strong> intersect – turning
-        ideas into measurable performance.
-      </p>
-    </div>
-  </div>
-
-  <p class="fd-section-footer">
-    In short: the certifications aren’t trophies — they’re
-    <strong>proof of calibration</strong>. Every badge represents systems I can
-    stand up, govern, and improve in the field.
-  </p>
-</section>
+    </section>
 
     <section id="skills">
       <div class="container">
@@ -404,7 +412,7 @@ h2.fd-cert-title {
         <div class="card">
           <h2>Contact</h2>
           <p>Email: <a href="mailto:teamreillc@gmail.com">teamreillc@gmail.com</a></p>
-          <p>LinkedIn: <a href=https://www.linkedin.com" target="_blank" rel="noopener">"http://www.linkedin.com/in/nobilitymusic</a></p>
+          <p>LinkedIn: <a href="https://www.linkedin.com/in/nobilitymusic" target="_blank" rel="noopener">http://www.linkedin.com/in/nobilitymusic</a></p>
         </div>
         <form class="card" name="contact" aria-label="Contact form" onsubmit="return submitMsg(event)">
           <label>Full name<br/><input required name="name" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #223048;background:#0e1621;color:var(--text)"></label><br/><br/>
