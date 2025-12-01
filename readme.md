@@ -127,7 +127,7 @@ Flame Language carries both.”
 Use the button below to explore the Flame Language Codex, Halo Cycle, and live Genesis materials.
 
 <a class="fd-btn fd-btn-primary fd-cta-pulse"
-   href="https://andrew-davis-ai-portfolio.github.io/Flame-Language-Genesis/"
+   href="/Flame-Language-Genesis/"
    target="_blank"
    rel="noopener">
 🔥 Code Talkers — Flame Language
