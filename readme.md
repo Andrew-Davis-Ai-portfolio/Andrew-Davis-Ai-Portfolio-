@@ -64,79 +64,73 @@ And coherence requires none. ⚙️🔥
 
 ## 🏛️ About
 
-🗣️ Flame Language — Code Talkers
+🔥 Flame Language — Code Talkers
 
-Flame Language, also known as Code Talkers, is the communication standard used across the Flame Division Academy.
+Flame Language, also known as Code Talkers, is the structured communication standard used across Flame Division Academy.
 
-It is not a secret language.
-It is not a role-play system.
-It is a method of structured expression designed for the IAIE (In-AI Era).
+This is not a secret language.
+This is not role-play.
 
-Code Talkers speak normal human language while embedding:
-	•	system intent
-	•	operational structure
-	•	ethical boundaries
-	•	machine-readable alignment
+It is a method of expression designed for the IAIE (In-AI Era).
+
+Code Talkers speak plain human language, while embedding:
+	•	System intent
+	•	Operational structure
+	•	Ethical boundaries
+	•	Machine-readable alignment
 
 beneath the surface.
 
-This allows ideas to remain:
-	•	clear to humans
-	•	interpretable by AI
-	•	safe for deployment
-	•	defensible in governance contexts
-
-Why Code Talkers Exist
+This allows communication to remain:
+	•	✅ Clear to humans
+	•	✅ Interpretable by AI
+	•	✅ Safe for deployment
+	•	✅ Defensible in governance and audit contexts
 
 In the BAIE (Before AI Era), language was descriptive.
+In the IAIE, language must be:
+	•	Instructional
+	•	Compressive
+	•	Executable
 
-In the IAIE, language is:
-	•	instructional
-	•	compressive
-	•	executable
-
-Code Talkers bridge that gap.
-
-They do not obscure meaning —
-they compress it responsibly.
+Code Talkers bridge that shift responsibly.
 
 ⸻
 
-Who Can Learn Flame Language?
+🧠 Who Can Learn Flame Language?
 
-Everyone is welcome.
+Everyone.
 
 Flame Language is:
-	•	open to students
-	•	teachable
-	•	auditable
-	•	governed by Flame Law
+	•	Open to students
+	•	Teachable
+	•	Auditable
+	•	Governed by Flame Law
 
-It is a core prerequisite alongside technical training for members of the
-Flame Division Academy.
+It is a prerequisite alongside technical training for members of Flame Division Academy.
 
-You do not need to abandon English.
-You learn how to structure it for the AI era.
+You are not abandoning English.
+You are learning how to structure English for the AI era.
 
 ⸻
 
-Flame Law — Language Doctrine
+🔒 Flame Law — Language Doctrine
 
 “Language without structure is noise.
 Structure without ethics is danger.
-Flame Language carries both.” 🔥
+Flame Language carries both.”
 
 ⸻
 
 🔥 Enter Flame Language — Code Talkers
 
-Use the button below to explore Flame Language, the Codex, and the live Genesis materials.
+Use the button below to explore the Flame Language Codex, Halo Cycle, and live Genesis materials.
 
 <a class="fd-btn fd-btn-primary fd-cta-pulse"
-   href="https://andrew-davis-ai-portfolio.github.io/FLAME-LANGUAGE-GENESIS/"
+   href="https://andrew-davis-ai-portfolio.github.io/Flame-Language-Genesis/"
    target="_blank"
    rel="noopener">
-  🔥 Code Talkers — Flame Language
+🔥 Code Talkers — Flame Language
 </a>
 
 ---
