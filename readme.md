@@ -33,15 +33,6 @@ This system operates within the wider Flame Division architecture.
   🧠 CAIO Roleplay — Executive Table (Demo)
 </a>
 
-</a>
-
-<a class="fd-btn fd-btn-secondary"
-   href="https://github.com/Andrew-Davis-Ai-portfolio/Caio-roleplay-tutor"
-   target="_blank"
-   rel="noopener">
-  🛡️ View CAIO Command Roleplay
-</a>
-
 👨‍⚕️ **Explore Medical AI Tutor (Dr. SurgiTutor)**  
 *Clinical education & simulation framework (non-diagnostic, compliance-first)*  
 🔗 https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md
