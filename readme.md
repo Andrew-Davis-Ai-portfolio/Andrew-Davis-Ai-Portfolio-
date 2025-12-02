@@ -34,7 +34,7 @@ This system operates within the wider Flame Division architecture.
 
 👨‍⚕️ **Explore Medical AI Tutor (Dr. SurgiTutor)**  
 *Clinical education & simulation framework (non-diagnostic, compliance-first)*  
-🔗 https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor
+🔗 https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md
 	
   ---
 
