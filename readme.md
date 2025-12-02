@@ -302,13 +302,18 @@ MIT
 
 # ♟️ Project Checkmate System
 AI-driven business simulation where every move is a decision.
+---
+
+<p align="center">
+  <em>👑 Activate Checkmate System</em><br/>
+  <sub>(Tap the Crown Below)</sub>
+</p>
 
 <p align="center">
   <a href="https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/" target="_blank" rel="noopener">
     👑
   </a>
 </p>
-
   <a href="https://github.com/Andrew-Davis-Ai-portfolio/Project-Checkmate-System">
     <img src="https://img.shields.io/badge/PLAY%20CHECKMATE%20SYSTEM-%23D4AF37?style=for-the-badge&labelColor=0E0E12" />
   </a>
