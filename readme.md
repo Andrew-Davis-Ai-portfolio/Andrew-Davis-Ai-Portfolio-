@@ -31,6 +31,10 @@ This system operates within the wider Flame Division architecture.
    rel="noopener">
   🛡️ View CAIO Command Roleplay
 </a>
+
+👨‍⚕️ **Explore Medical AI Tutor (Dr. SurgiTutor)**  
+*Clinical education & simulation framework (non-diagnostic, compliance-first)*  
+🔗 https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor
 	
   ---
 
