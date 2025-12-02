@@ -23,6 +23,16 @@ This system operates within the wider Flame Division architecture.
    target="_blank" 
    rel="noopener">
   🔥 Open Flame Division Academy
+
+  </a>
+
+<a class="fd-btn fd-btn-secondary"
+   href="https://andrew-davis-ai-portfolio.github.io/caio-roleplay-executive-demo/"
+   target="_blank"
+   rel="noopener">
+  🧠 CAIO Roleplay — Executive Table (Demo)
+</a>
+
 </a>
 
 <a class="fd-btn fd-btn-secondary"
