@@ -269,6 +269,29 @@ This is post-friction execution.
 
 ## 🚀 Featured Missions <a id="missions"></a>
 
+<!-- CAIO ROLEPLAY DEMO CARD -->
+<div class="fd-card">
+  <h3>🧠 CAIO Roleplay — Executive Table</h3>
+  <p>
+    Live mini-simulation of a conversation with an AI Chief AI Officer.
+    Practice opening, defending, and reframing your position under
+    S-Corp leadership pressure in 3–4 moves.
+  </p>
+  <ul class="fd-list">
+    <li>🎭 Boardroom-style roleplay with a CAIO</li>
+    <li>⚖️ Pushback on risk, ROI, and ownership</li>
+    <li>📊 Executive debrief highlighting strengths & gaps</li>
+  </ul>
+  <a class="fd-btn fd-btn-secondary" 
+     href="https://YOUR-CAIO-DEMO-URL-HERE"
+     target="_blank" 
+     rel="noopener">
+    🔓 Enter CAIO Roleplay Demo
+  </a>
+</div>
+
+---
+
 ### 1) 🔎 **KSM — Keyword Sniper Mistress (Mission 4)**
 
 🔗 **Main Portfolio & Command Overview**  
