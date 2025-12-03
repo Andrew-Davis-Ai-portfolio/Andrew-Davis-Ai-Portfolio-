@@ -34,13 +34,13 @@ This system operates within the wider Flame Division architecture.
   🧠 CAIO Roleplay — Executive Table (Demo)
 </a>
 
-👨‍⚕️ **Explore Medical AI Tutor (Dr. SurgiTutor)**  
-*Clinical education & simulation framework (non-diagnostic, compliance-first)*  
 [![Explore Medical AI Tutor](https://img.shields.io/badge/🔥%20Explore%20Medical%20AI%20Tutor-D4AF37?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md)
 
 [![CAIO Demo](https://img.shields.io/badge/🧠%20CAIO%20Roleplay%20—%20Executive%20Table-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/Project-Checkmate-System)
         CLICK CROWN (Play Demo)
-      
+
+ [![Project Checkmate Demo](https://img.shields.io/badge/👑%20Play%20Project%20Checkmate%20Demo-0A0A0A?style=for-the-badge&logo=chess&logoColor=D4AF37)](https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/) 
+ 
 ---
 
 Choose any entry point. All demonstrations are live.
