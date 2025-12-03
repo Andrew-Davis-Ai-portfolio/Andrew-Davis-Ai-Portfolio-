@@ -22,6 +22,8 @@
 
 This system operates within the wider Flame Division architecture.
 
+---
+
 [![Flame Division Academy](https://img.shields.io/badge/🔥%20Open%20Flame%20Division%20Academy-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-)
   
 
