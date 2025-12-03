@@ -25,19 +25,12 @@ This system operates within the wider Flame Division architecture.
 [![Flame Division Academy](https://img.shields.io/badge/🔥%20Open%20Flame%20Division%20Academy-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-)
   
 
-  </a>
-
-<a class="fd-btn fd-btn-secondary"
-   href="https://andrew-davis-ai-portfolio.github.io/caio-roleplay-executive-demo/"
-   target="_blank"
-   rel="noopener">
-  🧠 CAIO Roleplay — Executive Table (Demo)
-</a>
-
-[![Explore Medical AI Tutor](https://img.shields.io/badge/🔥%20Explore%20Medical%20AI%20Tutor-D4AF37?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md)
-
 [![CAIO Demo](https://img.shields.io/badge/🧠%20CAIO%20Roleplay%20—%20Executive%20Table-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/Project-Checkmate-System)
         CLICK CROWN (Play Demo)
+
+
+ [![Explore Medical AI Tutor](https://img.shields.io/badge/🔥%20Explore%20Medical%20AI%20Tutor-D4AF37?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md)
+
 
  [![Project Checkmate Demo](https://img.shields.io/badge/👑%20Play%20Project%20Checkmate%20Demo-0A0A0A?style=for-the-badge&logo=chess&logoColor=D4AF37)](https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/) 
  
