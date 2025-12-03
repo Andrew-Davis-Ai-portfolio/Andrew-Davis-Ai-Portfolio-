@@ -38,10 +38,9 @@ This system operates within the wider Flame Division architecture.
 🔗 https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md
 
 <p align="center">
-  <em>👑 Activate Checkmate System</em><br/>
-  <sub>(Tap the Crown Below)</sub>
-</p>
-	
+  <a href="https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/" target="_blank" rel="noopener">
+    👑
+  </a>
   ---
 
 🔥 Flame Law — Where Ethics Meets Execution
