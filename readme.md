@@ -42,7 +42,7 @@ This system operates within the wider Flame Division architecture.
 
 👨‍⚕️ **Explore Medical AI Tutor (Dr. SurgiTutor)**  
 *Clinical education & simulation framework (non-diagnostic, compliance-first)*  
-🔗 https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md
+[![Explore Medical AI Tutor](https://img.shields.io/badge/🔥%20Explore%20Medical%20AI%20Tutor-D4AF37?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md)
 
 <p align="center">
   <a href="https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/" target="_blank" rel="noopener">
