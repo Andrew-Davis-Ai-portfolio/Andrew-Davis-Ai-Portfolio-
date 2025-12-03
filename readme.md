@@ -50,7 +50,7 @@ This system operates within the wider Flame Division architecture.
   </a>
         CLICK CROWN (Play Demo)
 
-		Choose any entry point. All demonstrations are live.
+Choose any entry point. All demonstrations are live.
 	
   ---
 
