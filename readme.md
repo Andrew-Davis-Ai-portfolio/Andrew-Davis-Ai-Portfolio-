@@ -14,10 +14,7 @@
 <h3><em>Where execution becomes ecosystem.</em></h3>
 <br />
 
- <a class="fd-btn fd-btn-secondary"
-   href="https://andrew-davis-ai-portfolio.github.io/Certificate-wall/"
-   target="_blank"
-   rel="noopener">
+[![Certificate Wall](https://img.shields.io/badge/🏅%20Open%20Full%20Certificate%20Wall-D4AF37?style=for-the-badge)](https://andrew-davis-ai-portfolio.github.io/Certificate-wall/)
   🏅 Open Full Certificate Wall
 </a>
 
@@ -25,10 +22,7 @@
 
 This system operates within the wider Flame Division architecture.
 
-<a class="fd-btn" 
-   href="https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-" 
-   target="_blank" 
-   rel="noopener">
+[![Flame Division Academy](https://img.shields.io/badge/🔥%20Open%20Flame%20Division%20Academy-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-)
   🔥 Open Flame Division Academy
 
   </a>
@@ -44,10 +38,7 @@ This system operates within the wider Flame Division architecture.
 *Clinical education & simulation framework (non-diagnostic, compliance-first)*  
 [![Explore Medical AI Tutor](https://img.shields.io/badge/🔥%20Explore%20Medical%20AI%20Tutor-D4AF37?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Andrew-Davis-Ai-portfolio/med-ai-tutor/blob/main/README.md)
 
-<p align="center">
-  <a href="https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/" target="_blank" rel="noopener">
-    👑
-  </a>
+[![CAIO Demo](https://img.shields.io/badge/🧠%20CAIO%20Roleplay%20—%20Executive%20Table-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/Project-Checkmate-System)
         CLICK CROWN (Play Demo)
       
 ---
