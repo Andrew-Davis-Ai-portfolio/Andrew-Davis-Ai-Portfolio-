@@ -41,6 +41,8 @@ This system operates within the wider Flame Division architecture.
   <a href="https://andrew-davis-ai-portfolio.github.io/Project-Checkmate-System/" target="_blank" rel="noopener">
     👑
   </a>
+
+          CLICK CROWN 
           (Play Demo)
 	
   ---
