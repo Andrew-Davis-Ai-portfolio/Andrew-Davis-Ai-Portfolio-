@@ -24,7 +24,7 @@ This system operates within the wider Flame Division architecture.
 
 ---
 
-[![Flame Division Academy](https://img.shields.io/badge/🔥%20Open%20Flame%20Division%20Academy-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-)
+[![Open Flame Division Academy](https://img.shields.io/badge/🔥%20Open%20Flame%20Division%20Academy-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/README.md)
   
 
 [![CAIO Roleplay — Executive Table](https://img.shields.io/badge/🧠%20CAIO%20Roleplay%20—%20Executive%20Table-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://andrew-davis-ai-portfolio.github.io/caio-roleplay-executive-demo/)
