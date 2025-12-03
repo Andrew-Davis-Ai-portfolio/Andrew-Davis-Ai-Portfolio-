@@ -14,6 +14,13 @@
 <h3><em>Where execution becomes ecosystem.</em></h3>
 <br />
 
+ <a class="fd-btn fd-btn-secondary"
+   href="https://andrew-davis-ai-portfolio.github.io/Certificate-wall/"
+   target="_blank"
+   rel="noopener">
+  🏅 Open Full Certificate Wall
+</a>
+
 ## 🔌 Ecosystem Context
 
 This system operates within the wider Flame Division architecture.
