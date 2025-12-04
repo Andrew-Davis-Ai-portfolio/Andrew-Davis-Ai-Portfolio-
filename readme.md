@@ -414,6 +414,26 @@ Build client-grade workflows, CRMs, funnels, and AI agents.
 25+ years security & systems | AI Strategy, Governance & Deployment  
 LinkedIn: https://www.linkedin.com/in/andrew-davis-828883126
 
+<p align="center">
+  <a href="https://andrew-davis-ai-portfolio.github.io/Flame-Division-Pricing/"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:15px 30px;
+       border-radius:999px;
+       background:linear-gradient(145deg,#fbe7b3,#e3c56c,#caa245,#725b26);
+       color:#0a0a0a;
+       font-weight:700;
+       font-size:17px;
+       text-decoration:none;
+       letter-spacing:0.5px;
+       box-shadow:0 10px 32px rgba(0,0,0,0.65);
+       border:1px solid rgba(255,225,160,0.55);
+     ">
+     ✨ Enter the Academy — Pricing & Enrollment
+  </a>
+</p>
+
 ---
 <div align="center">
   <sub>© Flame Division Academy — Black & Gold Command Edition</sub>
