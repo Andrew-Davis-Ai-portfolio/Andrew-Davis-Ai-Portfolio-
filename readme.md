@@ -65,6 +65,8 @@ It is coherence.
 
 And coherence requires none. ⚙️🔥
 
+---
+
 > “Mastery is earned through execution.” — **Flame Law** ⚙️🔥
 
 ---
