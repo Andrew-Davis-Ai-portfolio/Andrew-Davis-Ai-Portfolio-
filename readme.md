@@ -427,6 +427,23 @@ A high-level syllabus outlining the structure, expectations, and access requirem
 🔗 View Public Syllabus  
 `/SYLLABUS.md`
 
+<a href="https://github.com/Andrew-Davis-Ai-portfolio/Flame-Ai-School-Of-Hard-Knocks-/blob/main/SYLLABUS.md"
+   target="_blank" rel="noopener"
+   style="
+     display:inline-block;
+     padding:10px 18px;
+     border-radius:999px;
+     background:linear-gradient(135deg,#05070c,#151b2b);
+     color:#f5b544;
+     font-weight:700;
+     font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+     text-decoration:none;
+     border:1px solid #f5b544;
+     box-shadow:0 6px 18px rgba(0,0,0,0.5);
+   ">
+🐉 VIEW SCHOOL OF HARD KNOCKS SYLLABUS
+</a>
+
 ---
 <div align="center">
   <sub>© Flame Division Academy — Black & Gold Command Edition</sub>
